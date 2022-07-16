@@ -1,2 +1,2 @@
 # shellscript
-intro ao shellscript
+intro ao shellscript - temporally in standby
